@@ -15,9 +15,10 @@ React'i kullanabilmek için nelere ihtiyacımız var:
 
 ## Amacımız
 
-- Amacımız React'ın bize sunduğu component, state, lifecycle gibi temel kavram ve terimleri öğrenmek.
+- Amacımız React'ın bize sunduğu **component**, **state**, **lifecycle**, **props** gibi temel kavram ve terimleri öğrenmek.
 - Öğrendiklerimizin tamamını kullanabileceğimiz bir uygulamak geliştirmek.
 
 **Kaynakça**
-[React Tutorial: An Overview and Walkthrough by Tania Rascia](https://www.taniarascia.com/getting-started-with-react/)
-[Getting Started by React.js](https://reactjs.org/)
+
+- [React Tutorial: An Overview and Walkthrough by Tania Rascia](https://www.taniarascia.com/getting-started-with-react/)
+- [Getting Started by React.js](https://reactjs.org/)
