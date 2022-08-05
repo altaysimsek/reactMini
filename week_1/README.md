@@ -7,7 +7,7 @@ Bu hafta basitçe aşağıdaki konulardan bahsedeceğiz.
 - JavaScript Paket Yöneticileri
 - Npm ve Yarn Arasındaki Farklar
 
-[Bu haftaki ödevimiz](/homework.md)
+[Bu haftaki ödevimiz](/week_1/homework.md)
 
 ### Kaynakça
 
